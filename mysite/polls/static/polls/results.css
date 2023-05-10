@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: hsl(204, 100%, 5%);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    padding: 50px;
+    padding-top: 100px;
+
+    height: 60px;
+    font-size: 20px;   
+    color: #71632d;
+}
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid white;
+}
